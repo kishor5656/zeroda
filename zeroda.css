@@ -1,0 +1,37 @@
+.parent{
+
+    display: flex;
+    justify-content: space-around;
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow: 2px 1px 2px #eeeeee;
+    
+    
+    
+    }
+    .childright{
+        display: flex;
+        justify-content: space-between;
+        
+        
+    }
+    
+    .childr{
+    
+        padding: 20px;
+        color: #666;
+        cursor: pointer;
+        
+    }
+    .childr:hover{
+    
+        color: #387ed1;
+        
+    }
+    #image
+    {
+        display: flex;
+        justify-content: center;
+    }
+    
